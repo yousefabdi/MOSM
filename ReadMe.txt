@@ -13,4 +13,4 @@
 
 
 The "MOSM_Big-Opts.zip" file can be downloaded and extacted on the computer. 
-=--= The script is run by SearchManager script =--=
+=--= The program is run by "SearchManager" script =--=
