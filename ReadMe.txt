@@ -11,4 +11,6 @@
 %   DOI: 10.1016/j.asoc.2019.105991
 
 
---= The script is run by SearchManager script. =--
+
+The MOSM_Big-Opts.zip can be downloaded and extacted on the computer. 
+=--= The script is run by SearchManager script =--=
